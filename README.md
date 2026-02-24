@@ -1,2 +1,2 @@
 # ml-heart-disease
-Detect presence or absence of heart disease with Random Forest machine learning model and streamlit frontend. Used UCI Heart Disease dataset.
+The objective of this project is to create a heart disease prediction model using the UCI Heart Disease dataset, predicting the absence or presence of heart disease. We used a Random Forest machine learning model and streamlit for display in Python. This cannot replace a proper medical examination, but an accurate model can assist doctors with diagnosing patients and ensuring quick, effective care.
